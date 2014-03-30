@@ -1,0 +1,10 @@
+Android Application for downloading Dive logs from Dive Computer
+----------------------------------------------------------------
+
+Prerequisites
+Android SDK - http://developer.android.com/sdk/index.html#download
+Android NDK - http://developer.android.com/tools/sdk/ndk/index.html
+
+Compatibility
+1. Supports Android 3.1 and above
+2. USB host mode should be supported

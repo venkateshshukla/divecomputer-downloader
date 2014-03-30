@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiveComputerDownload</string>
+
+    <string name="button_select_usb">Use USB</string>
+    <string name="button_select_bluetooth">Use Bluetooth</string>
+
+    <string name="title_home">Select Method</string>
+    <string name="title_usb_enum">Select USB Device</string>
+    <string name="title_usb_intent">USB Device Info</string>
+    <string name="title_bluetooth">Select Bluetooth Device</string>
+</resources>

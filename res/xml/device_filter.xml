@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Suunto Vyper -->
+    <!--vendor-id="0x0403" product-id="0xF680"-->
+    <usb-device />
+    <!-- Currently supports any device attached -->
+
+</resources>
