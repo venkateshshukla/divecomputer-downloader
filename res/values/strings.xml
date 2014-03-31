@@ -9,4 +9,10 @@
     <string name="title_usb_enum">Select USB Device</string>
     <string name="title_usb_intent">USB Device Info</string>
     <string name="title_bluetooth">Select Bluetooth Device</string>
+
+    <string name="dummy_device_name">Device Name</string>
+    <string name="dummy_device_pid">Device Product ID</string>
+    <string name="dummy_device_vid">Device Vendor ID</string>
+
+    <string name="refresh">Refresh</string>
 </resources>

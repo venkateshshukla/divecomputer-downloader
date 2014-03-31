@@ -10,5 +10,6 @@ public class UseBluetooth extends SherlockActivity{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.usebluetooth);
 		setTitle(R.string.title_bluetooth);
+		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 	}
 }
