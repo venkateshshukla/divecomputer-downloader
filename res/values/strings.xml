@@ -9,10 +9,15 @@
     <string name="title_usb_enum">Select USB Device</string>
     <string name="title_usb_intent">USB Device Info</string>
     <string name="title_bluetooth">Select Bluetooth Device</string>
+    <string name="title_no_bluetooth_adapter">No Bluetooth Adapter</string>
+    <string name="title_bluetooth_not_enabled">Bluetooth Not Enabled</string>
 
     <string name="dummy_device_name">Device Name</string>
     <string name="dummy_device_pid">Device Product ID</string>
     <string name="dummy_device_vid">Device Vendor ID</string>
+
+    <string name="msg_no_bluetooth_adapter">Sorry!! Bluetooth is not supported on your device.</string>
+    <string name="msg_bluetooth_not_enabled">You did not enable Bluetooth.</string>
 
     <string name="refresh">Refresh</string>
 </resources>
